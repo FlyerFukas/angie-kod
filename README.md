@@ -1,5 +1,7 @@
 # Angie
 
+<img src=".github/kapak.png" alt="Angie: Turkish-speaking personal assistant in Telegram. Documents 10 n8n 2.x pitfalls and fixes 4 template bugs." width="100%">
+
 **A Turkish-speaking personal assistant that lives in Telegram.** Ask it what is
 on your calendar, have it summarize your inbox, add a task, look up a phone
 number, in plain Turkish, from your phone. It runs on your own machine as an
